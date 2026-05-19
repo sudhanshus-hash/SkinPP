@@ -10,7 +10,7 @@ Web Server: https://webs.iiitd.edu.in/raghava/skinpp/
 
 ## Citation
 
-This tool and dataset is also available on Zenodo at
+This tool and dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20284775
 
 
 ## About the Research
